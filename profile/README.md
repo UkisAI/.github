@@ -17,7 +17,13 @@ UkisAI is an applied AI lab from Belgrade, Serbia, operating across Europe and t
 
 ## Open source
 
-- **[vibe-ukis](https://github.com/UkisAI/vibe-ukis)**: CLI toolkit for vibe coding AI products, with Claude Code skills, Cursor/Windsurf rules, and MCP docs servers
+**[vibe-ukis](https://github.com/UkisAI/vibe-ukis)** is our CLI for vibe coding AI products. It sets up Claude Code skills, Cursor/Windsurf/Antigravity rules, and MCP docs servers for your coding agent in one step.
+
+```bash
+pip install vibe-ukis
+vibe-ukis start
+```
+
 - **[Swift-Qwen3.8-27B-evals](https://github.com/UkisAI/Swift-Qwen3.8-27B-evals)**: every response, score, and config behind our Swift model's benchmarks
 - **[ukis-research-helper](https://github.com/UkisAI/ukis-research-helper)**: multi-agent research report writer on LlamaIndex
 
