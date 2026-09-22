@@ -5,15 +5,21 @@
     <a href="https://huggingface.co/ukisai"><b>Hugging Face</b></a> &nbsp;&bull;&nbsp;
     <a href="https://www.linkedin.com/company/ukisai"><b>LinkedIn</b></a>
   </p>
+  <p>
+    <b>240k+</b> downloads of our models and their community builds &nbsp;&bull;&nbsp;
+    <b>58</b> community quants and fine-tunes &nbsp;&bull;&nbsp;
+    <b>950+</b> likes on Hugging Face
+  </p>
 </div>
 
-UkisAI is an applied AI lab from Belgrade, Serbia, operating across Europe and the US. We train our own models, ship products used by 20,000+ people, and build production AI for startups, enterprises, and public institutions.
+UkisAI is an applied AI lab from Belgrade, Serbia, operating across Europe and the US. We post-train open models, publish the data and evals behind them, and build open-source tools for AI developers.
 
 ## What we work on
 
-- **Models.** We post-train open models to reason faster and cost less to run. Weights, quants, and demos are on [Hugging Face](https://huggingface.co/ukisai).
+- **Models.** We post-train open models to reason faster and cost less to run. Our models on [Hugging Face](https://huggingface.co/ukisai) have been downloaded 179k+ times, and the community has built 58 quants and fine-tunes on top of them.
+- **Datasets.** We release training data, like [Qwen3.8-27B-multi-turn-agent-sft](https://huggingface.co/datasets/ukisai/Qwen3.8-27B-multi-turn-agent-sft): about 15,200 multi-turn agent traces for terminal, coding, and software-engineering tasks.
 - **Developer tools.** Open-source tooling for building AI products and doing model research from the terminal.
-- **Production AI.** Products and custom systems for teams across Europe and the US.
+- **Production AI.** Products and custom systems for startups, enterprises, and public institutions.
 
 ## Open source
 
