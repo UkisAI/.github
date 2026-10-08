@@ -3,7 +3,8 @@
   <p>
     <a href="https://ukisai.com"><b>Website</b></a> &nbsp;&bull;&nbsp;
     <a href="https://huggingface.co/ukisai"><b>Hugging Face</b></a> &nbsp;&bull;&nbsp;
-    <a href="https://www.linkedin.com/company/ukisai"><b>LinkedIn</b></a>
+    <a href="https://www.linkedin.com/company/ukisai"><b>LinkedIn</b></a> &nbsp;&bull;&nbsp;
+    <a href="https://discord.gg/CFxZtMSvVy"><b>Discord</b></a>
   </p>
   <p>
     <a href="https://ukisai.com/swift/downloads"><b>300k+</b> downloads</a> of our models and their community builds &nbsp;&bull;&nbsp;
@@ -33,7 +34,7 @@ vibe-ukis start
 - **[Swift-Qwen3.8-27B-evals](https://github.com/UkisAI/Swift-Qwen3.8-27B-evals)**: every response, score, and config behind our Swift model's benchmarks
 - **[ukis-research-helper](https://github.com/UkisAI/ukis-research-helper)**: multi-agent research report writer on LlamaIndex
 
-More is on the way. Follow the org to catch new releases first.
+More is on the way. Follow the org to catch new releases first, or [join our Discord](https://discord.gg/CFxZtMSvVy) and ask for access to [UkisAI-EarlyAccess](https://github.com/UkisAI-EarlyAccess), where our community tries new tools before they go public.
 
 ## Work with us
 
